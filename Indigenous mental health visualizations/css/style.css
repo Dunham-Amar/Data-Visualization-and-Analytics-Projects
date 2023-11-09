@@ -1,8 +1,8 @@
 html {
-    background-color: whitesmoke;
-    margin: 2em;
+    background-color: white;
+    margin: 2rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 100%
+    font-size: 100%;
 }
 
 h1{
@@ -20,10 +20,11 @@ h2{
 }
 
 
+
 /* classes */
 
 .scalesvg {
     width: 100%;
-    height: 100%;
+    height: 700px;
     border: none;
 }
