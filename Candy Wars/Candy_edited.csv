@@ -1,0 +1,86 @@
+competitorname,chocolate,fruity,is_chocolate,caramel,peanutyalmondy,nougat,crispedricewafer,hard,bar,pluribus,is_pluribus,sugarpercent,pricepercent,winpercent,win_cat
+100 Grand,1,0,chocolate,1,0,0,1,0,1,0,bar,73.199999,86.000001,66.971725,often
+3 Musketeers,1,0,chocolate,0,0,1,0,0,1,0,bar,60.399997,51.099998,67.602936,often
+One dime,0,0,neither,0,0,0,0,0,0,0,neither,1.1,11.6,32.261086,sometimes
+One quarter,0,0,neither,0,0,0,0,0,0,0,neither,1.1,51.099998,46.116505,sometimes
+Air Heads,0,1,fruity,0,0,0,0,0,0,0,neither,90.600002,51.099998,52.341465,often
+Almond Joy,1,0,chocolate,0,1,0,0,0,1,0,bar,46.5,76.700002,50.347546,often
+Baby Ruth,1,0,chocolate,1,1,1,0,0,1,0,bar,60.399997,76.700002,56.914547,often
+Boston Baked Beans,0,0,neither,0,1,0,0,0,0,1,pluribus,31.299999,51.099998,23.417824,rarely
+Candy Corn,0,0,neither,0,0,0,0,0,0,1,pluribus,90.600002,32.499999,38.010963,sometimes
+Caramel Apple Pops,0,1,fruity,1,0,0,0,0,0,0,neither,60.399997,32.499999,34.517681,sometimes
+Charleston Chew,1,0,chocolate,0,0,1,0,0,1,0,bar,60.399997,51.099998,38.975037,sometimes
+Chewey Lemonhead Fruit Mix,0,1,fruity,0,0,0,0,0,0,1,pluribus,73.199999,51.099998,36.017628,sometimes
+Chiclets,0,1,fruity,0,0,0,0,0,0,1,pluribus,4.6,32.499999,24.524988,rarely
+Dots,0,1,fruity,0,0,0,0,0,0,1,pluribus,73.199999,51.099998,42.272076,sometimes
+Dum Dums,0,1,fruity,0,0,0,0,1,0,0,neither,73.199999,3.4000002,39.460556,sometimes
+Fruit Chews,0,1,fruity,0,0,0,0,0,0,1,pluribus,12.7,3.4000002,43.088924,sometimes
+Fun Dip,0,1,fruity,0,0,0,0,1,0,0,neither,73.199999,32.499999,39.185505,sometimes
+Gobstopper,0,1,fruity,0,0,0,0,1,0,1,pluribus,90.600002,45.300001,46.783348,sometimes
+Haribo Gold Bears,0,1,fruity,0,0,0,0,0,0,1,pluribus,46.5,46.5,57.11974,often
+Haribo Happy Cola,0,0,neither,0,0,0,0,0,0,1,pluribus,46.5,46.5,34.158958,sometimes
+Haribo Sour Bears,0,1,fruity,0,0,0,0,0,0,1,pluribus,46.5,46.5,51.41243,often
+Haribo Twin Snakes,0,1,fruity,0,0,0,0,0,0,1,pluribus,46.5,46.5,42.178772,sometimes
+Hershey's Kisses,1,0,chocolate,0,0,0,0,0,0,1,pluribus,12.7,9.3000002,55.375454,often
+Hershey's Krackel,1,0,chocolate,0,0,0,1,0,1,0,bar,43.000001,91.799998,62.284481,often
+Hershey's Milk Chocolate,1,0,chocolate,0,0,0,0,0,1,0,bar,43.000001,91.799998,56.490501,often
+Hershey's Special Dark,1,0,chocolate,0,0,0,0,0,1,0,bar,43.000001,91.799998,59.236122,often
+Jawbusters,0,1,fruity,0,0,0,0,1,0,1,pluribus,9.3000002,51.099998,28.127439,sometimes
+Junior Mints,1,0,chocolate,0,0,0,0,0,0,1,pluribus,19.7,51.099998,57.21925,often
+Kit Kat,1,0,chocolate,0,0,0,1,0,1,0,bar,31.299999,51.099998,76.7686,a_lot
+Laffy Taffy,0,1,fruity,0,0,0,0,0,0,0,neither,22,11.6,41.389557,sometimes
+Lemonhead,0,1,fruity,0,0,0,0,1,0,0,neither,4.6,10.4,39.141056,sometimes
+Lifesavers big ring gummies,0,1,fruity,0,0,0,0,0,0,0,neither,26.699999,27.900001,52.911392,often
+Peanut butter M&M's,1,0,chocolate,0,1,0,0,0,0,1,pluribus,82.499999,65.100002,71.46505,often
+M&M's,1,0,chocolate,0,0,0,0,0,0,1,pluribus,82.499999,65.100002,66.574585,often
+Mike & Ike,0,1,fruity,0,0,0,0,0,0,1,pluribus,87.199998,32.499999,46.411716,sometimes
+Milk Duds,1,0,chocolate,1,0,0,0,0,0,1,pluribus,30.199999,51.099998,55.064072,often
+Milky Way,1,0,chocolate,1,0,1,0,0,1,0,bar,60.399997,65.100002,73.099556,often
+Milky Way Midnight,1,0,chocolate,1,0,1,0,0,1,0,bar,73.199999,44.100001,60.800701,often
+Milky Way Simply Caramel,1,0,chocolate,1,0,0,0,0,1,0,bar,96.499997,86.000001,64.35334,often
+Mounds,1,0,chocolate,0,0,0,0,0,1,0,bar,31.299999,86.000001,47.829754,sometimes
+Mr Good Bar,1,0,chocolate,0,1,0,0,0,1,0,bar,31.299999,91.799998,54.526451,often
+Nerds,0,1,fruity,0,0,0,0,1,0,1,pluribus,84.799999,32.499999,55.354046,often
+Nestle Butterfinger,1,0,chocolate,0,1,0,0,0,1,0,bar,60.399997,76.700002,70.735641,often
+Nestle Crunch,1,0,chocolate,0,0,0,1,0,1,0,bar,31.299999,76.700002,66.47068,often
+Nik L Nip,0,1,fruity,0,0,0,0,0,0,1,pluribus,19.7,97.600001,22.445341,rarely
+Now & Later,0,1,fruity,0,0,0,0,0,0,1,pluribus,22,32.499999,39.4468,sometimes
+Payday,0,0,neither,0,1,1,0,0,1,0,bar,46.5,76.700002,46.296597,sometimes
+Peanut M&Ms,1,0,chocolate,0,1,0,0,0,0,1,pluribus,59.299999,65.100002,69.483788,often
+Pixie Sticks,0,0,neither,0,0,0,0,0,0,1,pluribus,9.3000002,2.3,37.722336,sometimes
+Pop Rocks,0,1,fruity,0,0,0,0,1,0,1,pluribus,60.399997,83.700001,41.265511,sometimes
+Red vines,0,1,fruity,0,0,0,0,0,0,1,pluribus,58.099997,11.6,37.348522,sometimes
+Reese's Miniatures,1,0,chocolate,0,1,0,0,0,0,0,neither,3.4000002,27.900001,81.866257,a_lot
+Reese's Peanut Butter cup,1,0,chocolate,0,1,0,0,0,0,0,neither,72.000003,65.100002,84.18029,a_lot
+Reese's pieces,1,0,chocolate,0,1,0,0,0,0,1,pluribus,40.599999,65.100002,73.43499,often
+Reese's stuffed with pieces,1,0,chocolate,0,1,0,0,0,0,0,neither,98.799998,65.100002,72.887901,often
+Ring pop,0,1,fruity,0,0,0,0,1,0,0,neither,73.199999,96.499997,35.290756,sometimes
+Rolo,1,0,chocolate,1,0,0,0,0,0,1,pluribus,86.000001,86.000001,65.716286,often
+Root Beer Barrels,0,0,neither,0,0,0,0,1,0,1,pluribus,73.199999,6.8999998,29.703691,sometimes
+Runts,0,1,fruity,0,0,0,0,1,0,1,pluribus,87.199998,27.900001,42.849144,sometimes
+Sixlets,1,0,chocolate,0,0,0,0,0,0,1,pluribus,22,8.1,34.722,sometimes
+Skittles original,0,1,fruity,0,0,0,0,0,0,1,pluribus,94.099998,22,63.08514,often
+Skittles wildberry,0,1,fruity,0,0,0,0,0,0,1,pluribus,94.099998,22,55.103695,often
+Nestle Smarties,1,0,chocolate,0,0,0,0,0,0,1,pluribus,26.699999,97.600001,37.887188,sometimes
+Smarties candy,0,1,fruity,0,0,0,0,1,0,1,pluribus,26.699999,11.6,45.995827,sometimes
+Snickers,1,0,chocolate,1,1,1,0,0,1,0,bar,54.6,65.100002,76.673782,a_lot
+Snickers Crisper,1,0,chocolate,1,1,0,1,0,1,0,bar,60.399997,65.100002,59.529251,often
+Sour Patch Kids,0,1,fruity,0,0,0,0,0,0,1,pluribus,6.8999998,11.6,59.863998,often
+Sour Patch Tricksters,0,1,fruity,0,0,0,0,0,0,1,pluribus,6.8999998,11.6,52.825947,often
+Starburst,0,1,fruity,0,0,0,0,0,0,1,pluribus,15.099999,22,67.037628,often
+Strawberry bon bons,0,1,fruity,0,0,0,0,1,0,1,pluribus,56.900001,5.7999998,34.578991,sometimes
+Sugar Babies,0,0,neither,1,0,0,0,0,0,1,pluribus,96.499997,76.700002,33.43755,sometimes
+Sugar Daddy,0,0,neither,1,0,0,0,0,0,0,neither,41.800001,32.499999,32.230995,sometimes
+Super Bubble,0,1,fruity,0,0,0,0,0,0,0,neither,16.2,11.6,27.303865,sometimes
+Swedish Fish,0,1,fruity,0,0,0,0,0,0,1,pluribus,60.399997,75.5,54.861111,often
+Tootsie Pop,1,1,both,0,0,0,0,1,0,0,neither,60.399997,32.499999,48.982651,sometimes
+Tootsie Roll Juniors,1,0,chocolate,0,0,0,0,0,0,0,neither,31.299999,51.099998,43.068897,sometimes
+Tootsie Roll Midgies,1,0,chocolate,0,0,0,0,0,0,1,pluribus,17.399999,1.1,45.736748,sometimes
+Tootsie Roll Snack Bars,1,0,chocolate,0,0,0,0,0,1,0,bar,46.5,32.499999,49.653503,sometimes
+Trolli Sour Bites,0,1,fruity,0,0,0,0,0,0,1,pluribus,31.299999,25.5,47.173229,sometimes
+Twix,1,0,chocolate,1,0,0,1,0,1,0,bar,54.6,90.600002,81.642914,a_lot
+Twizzlers,0,1,fruity,0,0,0,0,0,0,0,neither,22,11.6,45.466282,sometimes
+Warheads,0,1,fruity,0,0,0,0,1,0,0,neither,9.3000002,11.6,39.011898,sometimes
+Welch's Fruit Snacks,0,1,fruity,0,0,0,0,0,0,1,pluribus,31.299999,31.299999,44.375519,sometimes
+Werther's Original Caramel,0,0,neither,1,0,0,0,1,0,0,neither,18.6,26.699999,41.904308,sometimes
+Whoppers,1,0,chocolate,0,0,0,1,0,0,1,pluribus,87.199998,84.799999,49.524113,sometimes
