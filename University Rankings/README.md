@@ -4,7 +4,7 @@ This project examined trends in the rankings from [The Higher Education Universi
 
 ## Tasks
 
-**Zooming in on the Top 200**
+**Zooming in on the Top 200** <br>
 Create a set of scatterplots as a figure with 4 subplots in a 2x2 grid. Each scatterplot will have on x one of the following variables:
 
 `num_students` (count of total number of students) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`student_staff_ratio`
@@ -21,7 +21,9 @@ scatter distribution on their plots. For a positive correlation coefficient, the
 
 The top 10 schools seem to display a pattern in relation to the median of the x variables.  These schools are clustered near the median revealing that their values based on their respective x variable falls close to what the center value was for the entire data.  With the exception of international students, another pattern seen is that each variable shows the top 10 schools clustering near the median but below its value.
 
-**Comparing the highest ranked to the lowest ranked**
+<br> 
+
+**Comparing the highest ranked to the lowest ranked** <br>
 Create a parallel coordinates plot that compares the top 200 and last 200 based on the variables:
 
 `teaching` &nbsp;&nbsp;&nbsp; `research` &nbsp;&nbsp;&nbsp; `citations` &nbsp;&nbsp;&nbsp;
@@ -45,7 +47,9 @@ under—have the largest percentages compared to the other categories. So, the
 differences between the schools would be larger than other variables because they’re
 being subdivided from a larger whole from the percentage.
 
-**Hexbins of the full data**
+<br>
+
+**Hexbins of the full data** <br>
 Make a set of hexagonal binning plots (hexbins) that show the same information seen in Part 1 but for the FULL dataset 
 
 ![](hex.png)
