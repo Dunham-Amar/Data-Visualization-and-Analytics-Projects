@@ -5,4 +5,4 @@ This is a collection of projects worked on throughout a semester in a data visua
 
 [University Rankings](University Rankings/README.md)
 
-[Mental Health in Canadian Indigenous Populations](Mental Health in Canadian Indigenous Populations/index.html)
+[Mental Health in Canadian Indigenous Populations](https://dunham-amar.github.io/data_viz/Mental%20Health%20in%20Canadian%20Indigenous%20Populations/index.html)
