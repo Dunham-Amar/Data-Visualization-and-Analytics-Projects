@@ -5,4 +5,4 @@ This is a collection of projects worked on throughout a semester in a data visua
 
 [University Rankings](University Rankings/README.md)
 
-[Mental Health in Canadian Indigenous Populations](Mental Health in Canadian Indigenous Populations/README.md)
+[Mental Health in Canadian Indigenous Populations](Mental Health in Canadian Indigenous Populations/index.html)
