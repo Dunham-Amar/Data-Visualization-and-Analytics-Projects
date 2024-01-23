@@ -15,7 +15,7 @@ This project examined trends in the rankings from [The Higher Education Universi
 
 ### [Mental Health in Canadian Indigenous Populations Interactive Visualizations](https://dunham-amar.github.io/Data-Visualization-and-Analytics-Projects/Visualization%20Projects/Mental%20Health%20in%20Canadian%20Indigenous%20Populations/index.html)
 
-In this project, I used interactive visualizations to explore the proportion, location, and mental health relationships of three Canadian Indigenous populations: First Nations, Inuit, and Métis. The data was modified from the 2021 Canadian Census which contains the population counts for provinces and territories in Canada. From this project, I learned how to create interactive donut, choropleth, and scatterplot visuals using the plotly and folium libraries in Python.
+In this project, I used interactive visualizations to explore the proportion, location, and mental health relationships of three Canadian Indigenous populations: First Nations, Inuit, and Métis. The data was modified from the [2021 Canadian Census](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=9810028901) which contains the population counts for provinces and territories in Canada. From this project, I learned how to create interactive donut, choropleth, and scatterplot visuals using the plotly and folium libraries in Python.
 
 ![](https://github.com/Dunham-Amar/Data-Visualization-and-Analytics-Projects/blob/main/Visualization%20Projects/Mental%20Health%20in%20Canadian%20Indigenous%20Populations/images/all_visuals.png)
 
