@@ -10,11 +10,11 @@
 
 
 
-References
+**References**
  
-About Rotten Tomatoes. (n.d.). Rotten Tomatoes. Retrieved from
+* About Rotten Tomatoes. (n.d.). Rotten Tomatoes. Retrieved from
     https://www.rottentomatoes.com/about#:~:text=A%20Tomatometer%20score%20is%20calculated,receives%20at%20least%20five%20reviews.
  
-Bhatia, R. (2021). TV shows on Netflix, Prime Video, Hulu, and Disney+ [Unpublished raw data]. Kaggle. Retrieved from  https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
+* Bhatia, R. (2021). TV shows on Netflix, Prime Video, Hulu, and Disney+ [Unpublished raw data]. Kaggle. Retrieved from  https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
  
-Ratings FAQ. (n.d.). IMDb. Retrieved from https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#
+* Ratings FAQ. (n.d.). IMDb. Retrieved from https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV#
