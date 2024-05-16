@@ -7,9 +7,9 @@ This project examined trends in the rankings from [The Higher Education Universi
 **Zooming in on the Top 200** <br>
 Create a set of scatterplots as a figure with 4 subplots in a 2x2 grid. Each scatterplot will have on x one of the following variables:
 
-`num_students` (count of total number of students)
-`student_staff_ratio`
-`international_students` (percent of international students)
+`num_students` (count of total number of students) <br>
+`student_staff_ratio` <br>
+`international_students` (percent of international students) <br>
 `female` (percent of female students)
 
 Add a vertical line to represent the median of the x variable on each plot. Every scatterplot should have the total score (total_score) on y.
