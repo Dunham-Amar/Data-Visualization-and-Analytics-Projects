@@ -8,14 +8,14 @@ This project aimed to answer different questions through visualizations on [The 
 
 ![](stacked_bar.png)
 
-‘Win_cat’ and ‘is_chocolate’ were the two variables used to relate to the win
+`Win_cat` and `is_chocolate` were the two variables used to relate to the win
 percentage because these columns gave the frequency counts that could be converted
-to percentages in the crosstab.  I didn’t use ‘win_percent’ because it is a continuous
+to percentages in the crosstab.  I didn’t use `win_percent` because it is a continuous
 variable that included distinct values so the graph would have had 84 unstacked bars.
 
-From the visualization, frequent winners seen in the ‘A lot’ and ‘Often’ categories have
-high win percentages of chocolate versus less frequent winners seen in the ‘Rarely’ and
-‘Sometimes’ categories having high win percentages of fruity.
+From the visualization, frequent winners seen in the `A lot` and `Often` categories have
+high win percentages of chocolate versus less frequent winners seen in the `Rarely` and
+`Sometimes` categories having high win percentages of fruity.
 
 <br>
 
